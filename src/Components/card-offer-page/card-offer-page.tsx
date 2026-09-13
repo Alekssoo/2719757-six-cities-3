@@ -14,11 +14,11 @@ function CardOfferPage({
   markPlace = false,
 }: CardOfferProps): JSX.Element {
   return (
-    <article
-      className="near-places__card place-card"
-      style={{ display: markPlace ? 'flex' : 'none' }}
-    >
-      <div className="place-card__mark">
+    <article className="near-places__card place-card">
+      <div
+        className="place-card__mark"
+        style={{ display: markPlace ? 'flex' : 'none' }}
+      >
         <span>Premium</span>
       </div>
       <div className="near-places__image-wrapper place-card__image-wrapper">
