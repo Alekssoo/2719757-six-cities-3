@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Алексей Прытких](https://up.htmlacademy.ru/react-individual/3/user/2719757).
-* Наставник: [Евгения Подопригора] (https://htmlacademy.ru/profile/id2387199).
+* Наставник: [Евгения Подопригора](https://up.htmlacademy.ru/react-individual/3/user/2719757).
 
 ---
 
